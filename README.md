@@ -2,6 +2,13 @@
 
 A responsive React + Vite portfolio focused on school partnerships, Robotics & AI labs, STEM education, student achievement, workshops, and business growth.
 
+
+# Satish Rajput — Portfolio
+
+## 🌐 Live Website
+
+[View Live Portfolio](https://satish-rajput-portfolio.vercel.app/)
+
 ## Run locally in VS Code
 
 1. Extract the ZIP.
